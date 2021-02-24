@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kanji Flashcards</string>
+    <string name="selectallcheckboxname">Select All</string>
+    <string name="randomcheckboxname">Randomize Selected Kanji</string>
+    <string name="startondefinitionname">Study Definition</string>
+    <string name="studybuttonname">Study</string>
+    <string name="title_activity_select_kanji">SelectKanjiActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="selectTypeText">Select Type</string>
+    <string name="removeAllFavoritesText">Remove All Favorites</string>
+    <string name="backButtonName">Previous</string>
+    <string name="nextButtonName">Next</string>
+    <string name="selectButtonName">Select</string>
+    <string name="quizEndHomeButtonName">Go Home</string>
+    <string name="startOverButtonName">Start Over</string>
+    <string name="otherUsefulResourcesTextViewName">Other Useful Resources</string>
+    <string name="website1ButtonName">Genki-Online Kanji</string>
+    <string name="website2ButtonName">Genki-Online Home</string>
+    <string name="website3ButtonName">Jisho</string>
+    <string name="website4ButtonName">Japanese Ammo with Misa</string>
+    <string name="website5ButtonName">JapanesePod101</string>
+    <string name="startFragmentButtonName">Start</string>
+    <string name="flashCardsTextViewName">Kanji Flashcards</string>
+</resources>

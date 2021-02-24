@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:gravity="center"
+        android:text="@string/flashCardsTextViewName"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/infoTextView_id"
+        android:layout_width="match_parent"
+        android:layout_height="424dp"
+        android:scrollbars="vertical"
+        android:text="TextView"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/startFragmentButton_id"
+        android:layout_width="207dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/startFragmentButtonName"
+        android:textSize="30sp" />
+</LinearLayout>

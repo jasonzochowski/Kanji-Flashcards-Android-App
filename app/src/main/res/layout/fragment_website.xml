@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/websitetext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center_horizontal|top"
+        android:text="@string/otherUsefulResourcesTextViewName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/websiteButton1_id"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="@string/website1ButtonName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/websiteButton2_id"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="@string/website2ButtonName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/websiteButton3_id"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="@string/website3ButtonName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/websiteButton4_id"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="@string/website4ButtonName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/websiteButton5_id"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="top"
+        android:text="@string/website5ButtonName"
+        android:textSize="30sp" />
+
+</LinearLayout>

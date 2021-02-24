@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/totalScoreTextView_id"
+        android:layout_width="match_parent"
+        android:layout_height="179dp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/endHomeButton_id"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:text="@string/quizEndHomeButtonName"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/endBackButton_id"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/backButtonName"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/startOverButton_id"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/startOverButtonName"
+        android:textSize="18sp" />
+</LinearLayout>
